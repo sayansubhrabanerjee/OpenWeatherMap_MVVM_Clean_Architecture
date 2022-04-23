@@ -7,6 +7,6 @@ To develop this, I have used: </br> </br>
 4. Retrofit
 5. Moshi
 6. Navigation Component
-7. Glide library for image fecth/cache mechanism
+7. Glide library for image fetch/cache mechanism
 8. CustomView
 9. Lottie Animation
